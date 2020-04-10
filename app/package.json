@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "angular-expressions": "^0.3.0",
+    "angular-expressions": "^1.1.1",
     "compression": "^1.7.3",
     "cors": "^2.8.4",
     "docx": "^4.0.0",
