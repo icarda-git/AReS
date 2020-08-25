@@ -33,7 +33,7 @@
     "elasticsearch": "^15.0.0",
     "elasticsearch-browser": "^15.0.0",
     "font-awesome": "^4.7.0",
-    "highcharts": "^6.1.1",
+    "highcharts": "^8.2.0",
     "http-server": "^0.11.1",
     "lodash": "^4.17.10",
     "ng2-nouislider": "^1.7.11",
